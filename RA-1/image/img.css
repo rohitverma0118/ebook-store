@@ -1,0 +1,10 @@
+body{
+  width: 80%;
+}
+div img{
+  align-items: center;
+  background: lightgray;
+  margin: 1rem;
+  margin-top: 4rem;
+  padding: 1rem;
+}
