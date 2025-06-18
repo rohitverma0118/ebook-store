@@ -1,0 +1,57 @@
+.Buy{
+  background: #0388ff;
+  border-radius: 0.5rem;
+  color: white;
+  height: 2rem;
+  text-decoration: none;
+  width: 16rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.membership , .membership-details{
+  align-items: center;
+  display: inline;
+  justify-content: center;
+  text-align: center;
+  background: rgb(0,143,255);
+  background: linear-gradient(90deg, rgba(0,143,255,1) 0%, rgba(0,255,75,1) 100%);
+  border-radius: 1.5rem;
+  color: white;
+  height: 9rem;
+  width: 20rem;
+}
+.membership-details{
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,0.8) 0%, rgba(253,29,29,0.8) 50%, rgba(252,176,69,0.8) 100%);
+  color: black;
+  margin: 0.5rem;
+  padding-bottom: 8.5rem;
+  height: 0.5rem;
+  text-align: space-evenly;
+  width: 20rem;
+}
+.sec-box{
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-top: 0rem;
+}
+@media (min-width:600px){
+  .membership{
+    height: 13rem;
+    width: 30rem;
+    font-size: 1.5rem;
+  }
+  .membership-details{
+    height: 6rem;
+    width: 30rem;
+    font-size: 1.69rem;
+  }
+  .Buy{
+    height: 3rem;
+    width: 24rem;
+    font-size: 1.5rem;
+  }
+}
