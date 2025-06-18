@@ -12,13 +12,13 @@ body{
   background: #cfe8ff;
   background: linear-gradient(0deg, rgba(207, 232, 255, 1) 0%, rgba(255, 204, 225, 1) 100%);
   border-radius: 0.3rem;
-  height: 19.25rem;
+  height: 16rem;
   width: 40%;
   margin-top: 1.5rem;
 }
 .box-img{
   background-size: cover;
-  height: 14.5rem;
+  height: 12.25rem;
   margin-left: 0.2rem;
   margin-right: 0.2rem;
 }
@@ -40,7 +40,8 @@ a{
 h3{
   font-size: 1rem;
   padding-left: 0.25rem;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem
+  margin-bottom: 0.5rem;
 }
 section .h2 .div{
   background: rgb(34, 193, 195);
