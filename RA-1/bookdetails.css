@@ -231,6 +231,9 @@ div a{
     height: 27rem;
     width: 19rem;
   }
+  div a{
+    width: 7rem;
+  }
   .header .icon1 .button1 a i{
     font-size: 2.5rem;
   }
@@ -256,5 +259,7 @@ div a{
   }
   .read{
     width: 20%;
+    display: flex;
+    justify-content: space-evenly;
   }
 }
