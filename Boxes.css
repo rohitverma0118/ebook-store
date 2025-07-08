@@ -222,7 +222,7 @@ i{
     height: 7rem;
   }
   .input{
-    width: 35rem;
+    width: 40%;
   }
   .search{
     height: 4rem;
@@ -230,6 +230,7 @@ i{
   section .h2 .div{
     font-size: 1.6rem;
     height: 3rem;
+    width: 30%;
   }
 }
 
