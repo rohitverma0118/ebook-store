@@ -183,10 +183,13 @@ h1{
   background: linear-gradient(90deg, rgba(99, 92, 247, 1) 0%, rgba(144, 144, 240, 1) 35%, rgba(133, 235, 255, 1) 100%);
 }
 .a ,.Buy{
-  color: black;
+  color: white;
   font-size: 0.80rem;
   margin-left: 0.25rem;
   text-decoration: none;
+}
+.a{
+  color: black;
 }
 .btn{
   display: flex;
